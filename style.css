@@ -1,1 +1,10 @@
+body {
+    font-family: 'Arial'; /* for now I added a random font */
+}
 
+footer {
+    background-color: #2d3748; /* Change background color to dark gray */
+    color: #ffffff; /* Change text color to white */
+    padding: 8px 0; /* Adjust padding */
+    font-family: Arial, sans-serif; /* Change font family to Arial */
+}
