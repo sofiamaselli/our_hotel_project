@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Homepage</title>
+    <!-- Link to Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Link to custom CSS file -->
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+<!-- Navigation -->
+<nav class="bg-gray-800 text-white py-4">
+    <div class="container mx-auto flex justify-between items-center">
+        <h1 class="text-2xl font-bold">Our Hotel</h1>
+        <ul class="flex space-x-4">
+            <li><a href="home.html" class="hover:text-gray-300">Home</a></li>
+            <li><a href="about.html" class="hover:text-gray-300">About</a></li>
+            <li><a href="rooms.html" class="hover:text-gray-300">Rooms</a></li>
+            <li><a href="contact.html" class="hover:text-gray-300">Contact</a></li>
+            <li><a href="amenities.html" class="hover:text-gray-300">Amenities</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Welcome Section -->
+<section class="hero bg-gray-900 text-white py-20">
+    <div class="container mx-auto text-center">
+        <h2 class="text-4xl font-bold mb-4">Welcome to Our Hotel</h2>
+        <p class="text-lg mb-8">Experience luxury and comfort at our exquisite hotel.</p>
+        <a href="#" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full uppercase tracking-wide font-bold shadow-lg inline-block">Book Now</a>
+        <!-- Here Search Bar with Dates instead of Book Now -->
+    </div>
+</section>
+
+<!-- About Section -->
+<section class="about py-16">
+    <div class="container mx-auto text-center">
+        <h2 class="text-3xl font-bold mb-4">About Us</h2>
+        <p class="text-lg mb-8">Discover the elegance and charm of Our Hotel. We offer luxurious accommodations, exceptional dining experiences, and unparalleled hospitality.</p>
+        <a href="about.html" class="text-gray-600 hover:underline">More About Us</a>
+    </div>
+</section>
+
+<!-- Contacts Section -->
+<section class="about pb-16">
+    <div class="container mx-auto text-center">
+        <h2 class="text-3xl font-bold mb-4">Contacts</h2>
+        <p class="text-lg mb-8">Here email, phone number maybe a map </p>
+    </div>
+</section>
+
+<!-- Rooms Section -->
+<section class="featured-rooms pb-16">
+    <div class="container mx-auto text-center">
+        <h2 class="text-3xl font-bold mb-8">Rooms</h2>
+        <div class="grid grid-cols-4 md:grid-cols-4 lg:grid-cols-4 gap-4">
+            <!-- Room 1 -->
+            <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="https://via.placeholder.com/400" alt="Room 1" class="w-full h-38 object-cover">
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Option 1</h3>
+                </div>
+            </div>
+            <!-- Room 2 -->
+            <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="https://via.placeholder.com/400" alt="Room 2" class="w-full h-38 object-cover">
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Option 2</h3>
+                </div>
+            </div>
+            <!-- Room 3 -->
+            <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="https://via.placeholder.com/400" alt="Room 3" class="w-full h-38 object-cover">
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Option 3</h3>
+                </div>
+            </div>
+            <!-- Room 4 -->
+            <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
+                <img src="https://via.placeholder.com/400" alt="Room 4" class="w-full h-38 object-cover">
+                <div class="p-6">
+                    <h3 class="text-xl font-bold mb-2">Option 4</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mx-auto text-center py-8">
+        <a href="rooms.html" class="text-gray-600 hover:underline">Learn More</a>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="py-8">
+    <div class="container mx-auto text-center">
+        <p>&copy; 2024 Our Hotel.</p>
+    </div>
+</footer>
+
+</body>
+</html>
