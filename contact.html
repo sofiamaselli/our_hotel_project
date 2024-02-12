@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Our Hotel</title>
+    <!-- Link to Tailwind CSS CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Link to custom CSS file -->
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+<!-- Navigation-->
+<nav class="bg-gray-800 text-white py-4">
+    <div class="container mx-auto flex justify-between items-center">
+        <h1 class="text-2xl font-semibold">Our Hotel</h1>
+        <ul class="flex space-x-4">
+            <li><a href="home.html" class="hover:text-gray-300">Home</a></li>
+            <li><a href="rooms.html" class="hover:text-gray-300">Rooms</a></li> <!-- Link to Rooms page -->
+            <li><a href="about.html" class="hover:text-gray-300">About</a></li>
+            <li><a href="contact.html" class="hover:text-gray-300">Contact</a></li>
+            <li><a href="amenities.html" class="hover:text-gray-300">Amenities</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Contact Section -->
+<section class="contact py-16">
+    <div class="container mx-auto text-center">
+        <h2 class="text-3xl font-semibold mb-4">Contact Us</h2>
+        <p class="text-lg mb-8">Have questions or need assistance? Reach out to us using the form below.</p>
+        
+        <!-- Contact Form -->
+        <form action="#" method="POST" class="max-w-lg mx-auto">
+            <div class="grid grid-cols-1 md:grid-cols-1 gap-4">
+                <div>
+                    <label for="name" class="block mb-1">Name</label>
+                    <input type="text" id="name" name="name" class="w-full border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:border-blue-400">
+                </div>
+                <div>
+                    <label for="email" class="block mb-1">Email</label>
+                    <input type="email" id="email" name="email" class="w-full border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:border-blue-400">
+                </div>
+            </div>
+            <div class="mt-4">
+                <label for="message" class="block mb-1">Message</label>
+                <textarea name="message" id="message" rows="5" class="w-full border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:border-blue-400"></textarea>
+            </div>
+            <button type="submit" class="mt-6 bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded-full inline-block">Send Message</button>
+        </form>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="py-8">
+    <div class="container mx-auto text-center">
+        <p>&copy; 2024 Our Hotel.</p>
+    </div>
+</footer>
+
+</body>
+</html>
