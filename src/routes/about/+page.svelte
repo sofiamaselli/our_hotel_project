@@ -21,7 +21,7 @@
 </section>
 
 <!-- About the City Section -->
-<section class="about pb-16 bg-gray-100 py-8">
+<section class="about pb-16 bg-gray-100 py-8 pb-40">
     <div class="container mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
             <div class="about-image">
