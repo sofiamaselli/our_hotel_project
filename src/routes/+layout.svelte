@@ -27,7 +27,7 @@
 
 <!-- Footer -->
 
-<footer class="bg-gray-800 text-white bottom-0 left-0 w-full pt-10 fixed">
+<footer class="bg-gray-800 text-white bottom-0 left-0 w-full pt-20 fixed">
     <div class="container mx-auto text-center">
         <h2 class="text-lg font-bold">© 2024 OUR HOTEL</h2>
         <nav class="mt-4">
