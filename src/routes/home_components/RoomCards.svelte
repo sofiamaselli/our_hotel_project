@@ -1,29 +1,29 @@
     <script>
 
         let currentIndex = 0;
-        let type = 'Room 1';
-        let comment = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
+        let type = 'Superior Room';
+        let comment = 'Free WiFi, rain shower, HDTV, mini refrigerator, safe, desk';
         let roomimage = 'images/room_1.jpg';
 
          const room_cards = [
             {
-                type: 'Room 1',
-                comment: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                type: 'Superior Room',
+                comment: 'Free WiFi, rain shower, HDTV, mini refrigerator, safe, desk',
                 roomimage: 'images/room_1.jpg',
             },
             {
-                type: 'Room 2',
-                comment: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                type: 'Deluxe Room',
+                comment: 'Complimentary WiFi, spacious room, rain shower, HDTV, personal bar, safe',
                 roomimage: 'images/room_2.jpg',
             },
             {
-                type: 'Room 3',
-                comment: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+                type: 'Family Connecting Room',
+                comment: 'Interconnecting rooms, complimentary WiFi, VIP welcome gift, Nespresso machine',
                 roomimage: 'images/room_3.jpg',
             },
             {
-                type: 'Room 4',
-                comment: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
+                type: 'Executive Room',
+                comment: 'Complimentary breakfast and WiFi, large room, rain shower, HDTV',
                 roomimage: 'images/room_4.jpg',
             }
         ];
