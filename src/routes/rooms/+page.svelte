@@ -6,7 +6,7 @@
             <!--Room 1-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room1_img' src="src/images/room_1.jpg" alt="Room 1" class="w-full h-64 object-cover">
+                    <img id='room1_img' src="images/room_1.jpg" alt="Room 1" class="w-full h-64 object-cover">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Room 1</h3>
@@ -17,7 +17,7 @@
             <!--Room 2-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id= 'room2_img' src="src/images/room_2.jpg" alt="Room 2" class="w-full h-64 object-cover">
+                    <img id= 'room2_img' src="images/room_2.jpg" alt="Room 2" class="w-full h-64 object-cover">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Room 2</h3>
@@ -28,7 +28,7 @@
             <!--Room 3-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room3_img' src="src/images/room_3.jpg" alt="Room 3" class="w-full h-64 object-cover">
+                    <img id='room3_img' src="images/room_3.jpg" alt="Room 3" class="w-full h-64 object-cover">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Room 3</h3>
@@ -39,7 +39,7 @@
             <!--Room 4-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room4_img' src="src/images/room_4.jpg" alt="Room 4" class="w-full h-64 object-cover">
+                    <img id='room4_img' src="images/room_4.jpg" alt="Room 4" class="w-full h-64 object-cover">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Room 4</h3>
