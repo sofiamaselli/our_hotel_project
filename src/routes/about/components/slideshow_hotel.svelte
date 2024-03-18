@@ -3,23 +3,23 @@
     import { onMount, onDestroy } from 'svelte';
 
     let currentIndex = 0;
-    let hotel_img = 'src/images/hotel_3.jpg';
+    let hotel_img = 'images/hotel_3.jpg';
 
     const hotel_imgs = [
         {
-            hotel_img: 'src/images/hotel_7.jpg',
+            hotel_img: 'images/hotel_7.jpg',
         },
         {
-            hotel_img: 'src/images/hotel_3.jpg',
+            hotel_img: 'images/hotel_3.jpg',
         },
         {
-            hotel_img: 'src/images/hotel_8.jpg',
+            hotel_img: 'images/hotel_8.jpg',
         },
         {
-            hotel_img: 'src/images/hotel_9.jpg',
+            hotel_img: 'images/hotel_9.jpg',
         },
         {
-            hotel_img: 'src/images/hotel_6.jpg',
+            hotel_img: 'images/hotel_6.jpg',
         }
     ];
 
