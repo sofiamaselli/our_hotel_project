@@ -2,23 +2,23 @@
     import { onMount, onDestroy } from 'svelte';
 
     let currentIndex = 0;
-    let paris_img = 'src/images/paris_1.jpg';
+    let paris_img = 'images/paris_1.jpg';
 
     const paris_imgs = [
         {
-            paris_img: 'src/images/paris_2.jpg',
+            paris_img: 'images/paris_2.jpg',
         },
         {
-            paris_img: 'src/images/paris_1.jpg',
+            paris_img: 'images/paris_1.jpg',
         },
         {
-            paris_img: 'src/images/paris_3.jpg',
+            paris_img: 'images/paris_3.jpg',
         },
         {
-            paris_img: 'src/images/paris_4.jpg',
+            paris_img: 'images/paris_4.jpg',
         },
         {
-            paris_img: 'src/images/paris_5.jpg',
+            paris_img: 'images/paris_5.jpg',
         }
     ];
 
