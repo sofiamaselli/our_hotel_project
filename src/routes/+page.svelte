@@ -41,7 +41,7 @@
         <span>Address: 123 Rue de la Université, Paris</span>
     </p>
     <div class="flex justify-center">
-        <img src="src/images/Map.png" alt="Map" class="w-256 rounded-lg shadow-lg pb-10">
+        <img src="images/Map.png" alt="Map" class="w-256 rounded-lg shadow-lg pb-10">
     </div>
 </section>
 
