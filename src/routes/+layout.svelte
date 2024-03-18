@@ -10,7 +10,7 @@
 </head>
 
 <!-- Navigation -->
-<nav class="bg-gray-800 text-white py-4">
+<nav class="bg-blue-600 text-white py-4">
     <div class="container mx-auto flex justify-between items-center">
         <h2 class="text-2xl font-bold">OUR HOTEL</h2>
         <ul class="flex space-x-4">
@@ -27,14 +27,8 @@
 
 <!-- Footer -->
 
-<footer class="bg-gray-800 text-white bottom-0 left-0 w-full pt-20 fixed">
+<footer class="bg-blue-600 text-white bottom-0 left-0 w-full pt-20 fixed">
     <div class="container mx-auto text-center">
         <h2 class="text-lg font-bold">© 2024 OUR HOTEL</h2>
-        <nav class="mt-4">
-            <a href="#" class="text-gray-400 hover:text-white mx-2">Home</a>
-            <a href="#" class="text-gray-400 hover:text-white mx-2">Rooms</a>
-            <a href="#" class="text-gray-400 hover:text-white mx-2">Services</a>
-            <a href="#" class="text-gray-400 hover:text-white mx-2">Contact</a>
-        </nav>
     </div>
 </footer>
