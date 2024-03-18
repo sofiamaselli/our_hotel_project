@@ -3,28 +3,28 @@
         let currentIndex = 0;
         let type = 'Room 1';
         let comment = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
-        let roomimage = 'src/images/room_1.jpg';
+        let roomimage = 'images/room_1.jpg';
 
          const room_cards = [
             {
                 type: 'Room 1',
                 comment: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-                roomimage: 'src/images/room_1.jpg',
+                roomimage: 'images/room_1.jpg',
             },
             {
                 type: 'Room 2',
                 comment: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-                roomimage: 'src/images/room_2.jpg',
+                roomimage: 'images/room_2.jpg',
             },
             {
                 type: 'Room 3',
                 comment: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
-                roomimage: 'src/images/room_3.jpg',
+                roomimage: 'images/room_3.jpg',
             },
             {
                 type: 'Room 4',
                 comment: 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
-                roomimage: 'src/images/room_4.jpg',
+                roomimage: 'images/room_4.jpg',
             }
         ];
 
