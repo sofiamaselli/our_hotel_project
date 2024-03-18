@@ -18,6 +18,26 @@
     let lunch = '';
     let none = '';
 
+    import { tick } from 'svelte';
+
+    let showConfetti = false;
+
+    // Function to show confetti for 5 seconds
+    async function showConfettiFor5Seconds() {
+        showConfetti = true;
+        await tick();
+        setTimeout(() => {
+        showConfetti = false;
+        }, 5000);
+    }
+
+    // If activeTab changes trigger confetti accordingly
+    $: {
+        if (activeTab === 'booking_summary') {
+        showConfettiFor5Seconds();
+        }
+    }
+
 </script>
 
 <!-- Render active tab content -->
@@ -48,7 +68,7 @@
 {/if}
 
 <!-- Confetti component -->
-{#if activeTab === 'booking_summary'}
+{#if activeTab === 'booking_summary' && showConfetti}
 <div style="position: fixed; top: -50px; left: 0; height: 100vh; width: 100vw; display: flex; justify-content: center; overflow: hidden;">
     <Confetti x={[-20, 20]} y={[0, 0.1]} delay={[10, 2000]} amount={1000} fallDistance="100vh" 
      infinite duration={5000} />
