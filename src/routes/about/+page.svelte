@@ -10,7 +10,10 @@
             <div class="about-content">
                 <h2 class="text-3xl font-semibold mb-4">About Our Hotel</h2>
                 <p class="text-lg mb-8">At Our Hotel, we strive to provide our guests with exceptional hospitality and unforgettable experiences. Learn more about our story and commitment to excellence.</p>
-                <p class="text-lg mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo risus quis lorem aliquet fermentum. Vivamus nec ex purus. Integer luctus, elit id fermentum fermentum, turpis dolor aliquet sem, non auctor nunc justo eu libero. Curabitur auctor, arcu in aliquet luctus, odio lectus vehicula lectus, sit amet vestibulum felis neque eget risus.</p>
+                <p class="text-lg mb-8">In the heart of our city, a visionary architect named Alexander discovered a forgotten gem—an old, weathered building with untapped potential. With boundless determination, he transformed it into our beloved hotel, a testament to his passion for creating unforgettable experiences.</p>
+                <p class="text-lg mb-8">Every detail, from the elegant façade to the luxurious interiors, reflects Alexander's commitment to excellence. Each room is a sanctuary, designed to surpass the expectations of our guests and provide a home away from home.</p>
+                <p class="text-lg mb-8">Since opening our doors, we've welcomed travelers from around the world, offering them a haven of luxury, hospitality, and endless possibilities. Our mission is simple: to create moments of joy, laughter, and connection that last a lifetime.</p>
+                <p class="text-lg mb-8">Join us on this journey, where every stay is a story waiting to be written. Welcome to our hotel.</p>
             </div>
             <div class="about-image">
                 <!-- Image for About Section -->
@@ -31,7 +34,7 @@
             <div class="about-content">
                 <h2 class="text-3xl font-semibold mb-4">About the City</h2>
                 <p class="text-lg mb-8">Discover the vibrant culture and rich history of our city. From iconic landmarks to hidden gems, there's something for everyone to explore.</p>
-                <p class="text-lg mb-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo risus quis lorem aliquet fermentum. Vivamus nec ex purus. Integer luctus, elit id fermentum fermentum, turpis dolor aliquet sem, non auctor nunc justo eu libero. Curabitur auctor, arcu in aliquet luctus, odio lectus vehicula lectus, sit amet vestibulum felis neque eget risus.</p>
+                <p class="text-lg mb-8">Welcome to Paris, a timeless city of romance, art, and culture. Steeped in history and brimming with charm, Paris captivates visitors with its iconic landmarks, cobblestone streets, and world-renowned cuisine. From the majestic Eiffel Tower to the grandeur of Notre-Dame Cathedral, every corner tells a story of centuries past. But Paris is not just a city frozen in time; it is a vibrant metropolis where tradition meets modernity. Wander through the bustling streets of Montmartre, where artists once roamed and creativity thrives to this day. Indulge in a leisurely café au lait at a quintessential Parisian café, or explore the chic boutiques of the Marais district. In the evenings, immerse yourself in the glittering lights of the Champs-Élysées or lose yourself in the melodies of a live jazz performance along the Seine. Paris is a city of endless discovery, where every moment is filled with possibility and enchantment. Welcome to the magic of Paris, where dreams come alive amidst the beauty of the City of Light.</p>
             </div>
         </div>
     </div>
