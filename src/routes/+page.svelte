@@ -33,10 +33,15 @@
     </section>
 
 <!-- Contacts Section -->
-<section class="about pb-16">
-    <div class="container mx-auto text-center">
-        <h2 class="text-3xl font-bold mb-4">Contacts</h2>
-        <p class="text-lg mb-8">Here email, phone number maybe a map </p>
+<section class="about pb-16 text-center">
+    <h2 class="text-3xl font-bold mb-4 mx-auto">Contacts</h2>
+    <p class="text-lg mb-8 mx-auto flex flex-col items-center">
+        <span>Phone: +33 6 12 34 56 78</span>
+        <span>Email: ourhotel@ourhotel.com</span>
+        <span>Address: 123 Rue de la Université, Paris</span>
+    </p>
+    <div class="flex justify-center">
+        <img src="src/images/Map.png" alt="Map" class="w-256 rounded-lg shadow-lg pb-10">
     </div>
 </section>
 
