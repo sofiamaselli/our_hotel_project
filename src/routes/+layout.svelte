@@ -10,7 +10,7 @@
 </head>
 
 <!-- Navigation -->
-<nav class="bg-blue-600 text-white py-4">
+<nav class="bg-blue-500 text-white py-4">
     <div class="container mx-auto flex justify-between items-center">
         <h2 class="text-2xl font-bold">OUR HOTEL</h2>
         <ul class="flex space-x-4">
@@ -27,7 +27,7 @@
 
 <!-- Footer -->
 
-<footer class="bg-blue-600 text-white bottom-0 left-0 w-full pt-8 fixed">
+<footer class="bg-blue-500 text-white bottom-0 left-0 w-full pt-8 fixed">
     <div class="container mx-auto text-center">
         <h2 class="text-lg font-bold">© 2024 OUR HOTEL</h2>
     </div>
