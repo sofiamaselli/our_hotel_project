@@ -54,12 +54,10 @@
         clearInterval(intervalId);
     }
 
-    // Start the slideshow when the component is mounted
     onMount(() => {
         startSlideshow();
     });
 
-    // Stop the slideshow when the component is unmounted
     onDestroy(() => {
         stopSlideshow();
     });
