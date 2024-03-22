@@ -35,10 +35,10 @@
             <div class="mb-6">
                 <label class="block uppercase tracking-wide text-gray-700 text-s font-bold mb-2" for="roomSelect">Select Room</label>
                 <select bind:value={selectedRoom} id="roomSelect" class=" appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
-                    <option value="Room 1">Room 1</option>
-                    <option value="Room 2">Room 2</option>
-                    <option value="Room 3">Room 3</option>
-                    <option value="Room 4">Room 4</option>
+                    <option value="Deluxe">Deluxe</option>
+                    <option value="Family">Family</option>
+                    <option value="Executive">Executive</option>
+                    <option value="Superior">Superior</option>
                 </select>
             </div>
             <!-- Date Selection -->
