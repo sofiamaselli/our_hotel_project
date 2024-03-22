@@ -31,7 +31,7 @@
                     <img id='room3_img' src="images/room_3.jpg" alt="Room 3" class="w-full h-64 object-cover">
                 </div>
                 <div class="p-6">
-                    <h3 class="text-xl font-semibold mb-2">Family Connecting Room</h3>
+                    <h3 class="text-xl font-semibold mb-2">Family Room</h3>
                     <p class="text-gray-600">Enjoy a family break in Paris in our comfortable and convenient family option of two interconnecting rooms, each with a queen bed. Each room offers complimentary WiFi and an HDTV with children's channels.</p>
                     <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-4 rounded-full inline-block mt-4">Book Now</a>
                 </div>
