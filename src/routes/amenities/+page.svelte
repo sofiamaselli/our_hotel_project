@@ -1,5 +1,5 @@
 <!-- Amenities Section -->
-<section class="amenities py-8">
+<section class="amenities py-8 pb-10">
     <div class="container mx-auto text-center ">
         <h2 class="text-3xl font-semibold mb-8">Amenities</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8 ">
