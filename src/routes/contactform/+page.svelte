@@ -22,7 +22,7 @@
 
 </script>
 
-<div class = "py-8">
+<div class = "py-8 justify-center">
     <div class="bg-gray-100 rounded-lg shadow-md p-6 max-w-md mx-auto">
     <h2 class="text-2xl font-semibold mb-4">Contact Us</h2>
     <form on:submit|preventDefault={handleSubmit}>
