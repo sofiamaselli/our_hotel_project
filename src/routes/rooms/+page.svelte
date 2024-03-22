@@ -5,9 +5,10 @@
         <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-1 gap-8">
             <!--Room 1-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
-                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room1_img' src="images/room_1.jpg" alt="Room 1" class="w-full h-128 object-cover">
+                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden" style="height: 16rem;"> 
+                    <img id='room1_img' src="images/room_1.jpg" alt="Room 1" class="room-image object-cover w-full h-full">
                 </div>
+                
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Superior Room</h3>
                     <p class="text-gray-600">Unwind in this contemporary room with one double bed and a work desk with USB ports for your business needs. The bathroom boasts a heated floor and a spacious walk-in rain shower.</p>
@@ -16,8 +17,8 @@
             </div> 
             <!--Room 2-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
-                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id= 'room2_img' src="images/room_2.jpg" alt="Room 2" class="w-full h-128 object-cover">
+                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden" style="height: 16rem;"> 
+                    <img id= 'room2_img' src="images/room_2.jpg" alt="Room 2" class="room-image object-cover w-full h-full">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2">Deluxe Room</h3>
@@ -27,8 +28,8 @@
             </div> 
             <!--Room 3-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
-                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room3_img' src="images/room_3.jpg" alt="Room 3" class="w-full h-128 object-cover">
+                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden" style="height: 16rem;"> 
+                    <img id='room3_img' src="images/room_3.jpg" alt="Room 3" class="room-image object-cover w-full h-full">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2">Family Room</h3>
@@ -38,8 +39,8 @@
             </div> 
             <!--Room 4-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
-                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room4_img' src="images/room_4.jpg" alt="Room 4" class="w-full h-128 object-cover">
+                <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden" style="height: 16rem;"> 
+                    <img id='room4_img' src="images/room_4.jpg" alt="Room 4" class="room-image object-cover w-full h-full">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2">Executive Room</h3>
