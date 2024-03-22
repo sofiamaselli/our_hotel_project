@@ -6,7 +6,7 @@
             <!--Room 1-->
             <div class="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-2 gap-8">
                 <div class="room-card bg-white shadow-lg rounded-lg overflow-hidden">
-                    <img id='room1_img' src="images/room_1.jpg" alt="Room 1" class="w-full h-64 object-cover">
+                    <img id='room1_img' src="images/room_1.jpg" alt="Room 1" class="w-full h-full object-cover">
                 </div>
                 <div class="p-6">
                     <h3 class="text-xl font-semibold mb-2"> Superior Room</h3>
