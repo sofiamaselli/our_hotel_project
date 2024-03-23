@@ -5,6 +5,8 @@
 /* Apply font to elements */
 
 .banner {
+    background-image: url('your-image-url.jpg'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+    background-size: cover; /* Cover the entire element with the background image */
     background-color: #007bff; /* Blue color, you can change it */
     color: #ffffff; /* White text color, you can change it */
     padding: 60px;
