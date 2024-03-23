@@ -3,6 +3,11 @@
     import SlideshowParis from "./components/slideshow_paris.svelte";
 </script>
 
+ <div class="banner">
+        <h1>Welcome to Our Website</h1>
+        <p>Discover amazing content!</p>
+    </div>
+
 <!-- About Section -->
 <section class="about py-16 bg-white">
     <div class="container mx-auto">
