@@ -3,6 +3,12 @@
     import SlideshowParis from "./components/slideshow_paris.svelte";
 </script>
 
+ <style>
+    .banner {
+            background-image: url('your-image-url.jpg'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+
+</style>
+
  <div class="banner">
         <h1>About us</h1>
         <p>Discover our hotel</p>
