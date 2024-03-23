@@ -4,8 +4,8 @@
 </script>
 
  <div class="banner">
-        <h1>Welcome to Our Website</h1>
-        <p>Discover amazing content!</p>
+        <h1>About us</h1>
+        <p>Discover our hotel</p>
     </div>
 
 <!-- About Section -->
