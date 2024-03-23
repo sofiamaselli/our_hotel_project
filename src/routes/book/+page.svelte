@@ -19,7 +19,7 @@
 
 </script>
 
-<!-- Render active tab content -->
+
 {#if activeTab === 'booking'}
     <div>
         <Booking bind:selectedRoom={selectedRoom}
