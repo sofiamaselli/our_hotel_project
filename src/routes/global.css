@@ -4,6 +4,24 @@
 
 /* Apply font to elements */
 
+.banner {
+    background-color: #007bff; /* Blue color, you can change it */
+    color: #ffffff; /* White text color, you can change it */
+    padding: 20px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.banner p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+
 h2 {
     font-family: "Fira Sans", sans-serif;
     font-weight: bold;
