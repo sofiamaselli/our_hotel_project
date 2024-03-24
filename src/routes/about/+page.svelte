@@ -9,7 +9,7 @@
     <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
     <div class="container mx-auto text-center relative z-10 py-20">
         <h2 class="text-4xl font-bold text-white mb-4">About us</h2>
-        <p class="text-lg text-white mb-8"> Step into a world of refined elegance and comfort as we invite you to explore our luxurious hotel rooms, where every moment is tailored to exceed your expectations.</p>
+        <p class="text-lg text-white mb-8">Step into a world of refined elegance and comfort as we invite you to explore our luxurious hotel rooms, where every moment is tailored to exceed your expectations.</p>
         <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
     </div>
 </section>
