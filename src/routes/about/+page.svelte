@@ -5,11 +5,11 @@
 
  <style>
     .banner {
-            background-image: url('static/images/about-us-banner.jpeg'); /* Replace 'your-image-url.jpg' with the URL or path to your image */
+            background-image: url('images/about-us-banner.jpeg');
 }
 </style>
 
- <div class="banner">
+    <div class="banner">
         <h1>About us</h1>
         <p>Discover our hotel</p>
     </div>
