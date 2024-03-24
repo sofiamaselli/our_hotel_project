@@ -3,8 +3,7 @@
     import SlideshowParis from "./components/slideshow_paris.svelte";
 </script>
 
-<!-- Welcome Section -->
-
+<!-- Banner -->
 <section class="hero relative bg-cover bg-center" style="background-image: url('images/about-us-banner.jpeg');">
     <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
     <div class="container mx-auto text-center relative z-10 py-20">
