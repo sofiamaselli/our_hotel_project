@@ -1,3 +1,14 @@
+<!-- Welcome Section -->
+<section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpeg');">
+    <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
+    <div class="container mx-auto text-center relative z-10 py-20">
+        <h2 class="text-4xl font-bold text-white mb-4">Discover Our Exquisite Luxury Hotel Rooms</h2>
+        <p class="text-lg text-white mb-8">Experience unparalleled luxury and comfort in our meticulously designed hotel rooms, where every detail is tailored to elevate your stay to new heights of opulence and sophistication.</p>
+        <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
+    </div>
+</section>
+
+
 <!-- Rooms Section -->
 <section class="rooms pt-8 pb-40">
     <div class="container mx-auto text-center">
