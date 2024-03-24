@@ -25,7 +25,8 @@
 <!-- Banner -->
 <section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpg');">
     <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
-    <div class="container mx-auto text-center relative z-10 py-20">
+    <div class="container mx-auto text-center relative z-10 py-10">
+    <h2 class="text-2xl font-semibold mb-4">Get in Touch</h2>
     </div>
 </section>
 
