@@ -1,5 +1,5 @@
-<!-- Welcome Section -->
-<section class="hero relative bg-cover bg-center" style="background-image: url('static/images/room-banner.jpg');">
+<!-- Banner -->
+<section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpg');">
     <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
     <div class="container mx-auto text-center relative z-10 py-20">
         <h2 class="text-4xl font-bold text-white mb-4">Discover Our Exquisite Luxury Hotel Rooms</h2>
