@@ -1,14 +1,3 @@
-<!-- Welcome Section -->
-<section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpeg');">
-    <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
-    <div class="container mx-auto text-center relative z-10 py-20">
-        <h2 class="text-4xl font-bold text-white mb-4"Contact us</h2>
-        <p class="text-lg text-white mb-8">Contact us today to book your unforgettable experience and indulge in unparalleled comfort and elegance.</p>
-        <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
-    </div>
-</section>
-
-
 <script>
   let name = '';
   let email = '';
@@ -32,6 +21,16 @@
   }
 
 </script>
+
+<!-- Banner -->
+<section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpg');">
+    <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
+    <div class="container mx-auto text-center relative z-10 py-20">
+        <h2 class="text-4xl font-bold text-white mb-4"Contact us</h2>
+        <p class="text-lg text-white mb-8">Contact us today to book your unforgettable experience and indulge in unparalleled comfort and elegance.</p>
+        <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
+    </div>
+</section>
 
 <div class = "py-8 justify-center">
     <div class="bg-gray-100 rounded-lg shadow-md p-6 max-w-md mx-auto">
