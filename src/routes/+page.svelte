@@ -9,7 +9,6 @@
         <h2 class="text-4xl font-bold text-white mb-4">Welcome to Our Hotel</h2>
         <p class="text-lg text-white mb-8">Experience luxury and comfort at our exquisite hotel.</p>
         <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
-        <!-- Here Search Bar with Dates instead of Book Now -->
     </div>
 </section>
 
