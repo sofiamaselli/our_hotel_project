@@ -3,16 +3,15 @@
     import SlideshowParis from "./components/slideshow_paris.svelte";
 </script>
 
- <style>
-    .banner {
-            background-image: url('images/about-us-banner.jpeg');
-}
-</style>
-
-    <div class="banner">
-        <h1>About us</h1>
-        <p>Discover our hotel</p>
+<!-- Welcome Section -->
+<section class="hero relative bg-cover bg-center" style="background-image: url('images/about-us-banner.jpeg');">
+    <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
+    <div class="container mx-auto text-center relative z-10 py-20">
+        <h2 class="text-4xl font-bold text-white mb-4">About us</h2>
+        <p class="text-lg text-white mb-8">Discover our hotel.</p>
+        <a href="book" class="bg-yellow-500 hover:bg-yellow-600 text-white py-2 px-6 rounded-full tracking-wide font-bold shadow-lg inline-block">Book Now</a>
     </div>
+</section>
 
 <!-- About Section -->
 <section class="about py-16 bg-white">
