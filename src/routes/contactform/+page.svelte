@@ -22,13 +22,15 @@
 
 </script>
 
-<!-- Banner -->
-<section class="hero relative bg-cover bg-center" style="background-image: url('images/room-banner.jpg');">
+
+<!-- Welcome Section -->
+<section class="hero relative bg-cover bg-center" style="background-image: url('images/hotel_2.jpg');">
     <div class="absolute inset-0 bg-black opacity-50"></div> <!-- semi-transparent overlay -->
-    <div class="container mx-auto text-center relative z-10 py-10">
-    <h2 class="text-2xl font-semibold mb-4 text-white">Get in Touch</h2>
+    <div class="container mx-auto text-center relative z-10 py-20">
+        <h2 class="text-4xl font-bold text-white mb-4">Get in touch</h2>
     </div>
 </section>
+
 
 <div class = "py-8 justify-center">
     <div class="bg-gray-100 rounded-lg shadow-md p-6 max-w-md mx-auto">
